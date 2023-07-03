@@ -7,7 +7,7 @@ Hi there 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>           
 
-- 👯 I’m looking to collaborate on Kaggle challenges and starting in open-source projects.
+- 👯 I’m looking to collaborate on Kaggle challenges and open-source projects.
 - 🤔 I’m looking for help with getting a first job in Development.
 - 💬 Ask me about Technologies, Finances, Machine Learning, Travel, Magic The Gathering, and Formula 1
 - 📫 How to reach me:<div>
