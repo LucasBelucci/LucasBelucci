@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning:
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" /> 
@@ -9,18 +9,22 @@ Hi there 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50" />
-          
             
-          
 - 👯 I’m looking to collaborate on Kaggle challenges and open-source projects.
-- 🤔 I’m looking for help with getting a first job in Development.
-- 💬 Ask me about Technologies, Finances, Machine Learning, Travel, Magic The Gathering, and Formula 1
-- 📫 How to reach me:<div>
-  <a href = "mailto:lucasbelucci4@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://https://www.linkedin.com/in/lucas-belucci/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="30" />
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I graduated in Control and Automation engineering and worked in the industry with maintenance for two years, then I decided to change my career to TI, so the start for this is because of web3 and other investments during the pandemic.
+- 🤔 I’m looking for help with getting my first job in Development.
+- 💬 Ask me about Technologies, Finances, Machine Learning, Travel, Magic: The Gathering, and Formula 1.
+- 📫 How to reach me: 
+  <div>
+    <a href = "mailto:lucasbelucci4@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/lucas-belucci/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="30" /></a>
+  </div>
 
+- 😄 Pronouns: He/him.
+- ⚡ Fun fact: I graduated in Control and Automation Engineering and worked in the industry with maintenance for two years. I then decided to switch my career to IT, inspired by web3 and investments during the pandemic.
+
+---
+
+If you're interested in knowing more about my work, check out the ["projetos-pessoais"](https://github.com/LucasBelucci/projetos-pessoais) and ["Data-projects"](https://github.com/LucasBelucci/Data-projects) repositories. These contain personal projects and Kaggle challenges that reflect my interests and skills.
 
 <div>
 <a href="https://github.com/LucasBelucci">
