@@ -24,7 +24,7 @@ Hi there 👋
 
 ---
 
-If you're interested in knowing more about my work, check out the ["projetos-pessoais"](https://github.com/LucasBelucci/projetos-pessoais) and ["Data-projects"](https://github.com/LucasBelucci/Data-projects) repositories. These contain personal projects and Kaggle challenges that reflect my interests and skills.
+If you're interested in knowing more about my work, check out the ["projetos-pessoais"](https://github.com/LucasBelucci/projetos-pessoais),  ["Data-projects"](https://github.com/LucasBelucci/Data-projects) and ["Churn-predicition-2025"](https://github.com/LucasBelucci/churn-prediction-2025) repositories. These contain personal projects and Kaggle challenges that reflect my interests and skills.
 
 <div>
 <a href="https://github.com/LucasBelucci">
